@@ -10,7 +10,7 @@ The categories to look at include:
 
 Each of these will have their own page in which the user can insert information.
 
-## *Job Offers*
+### *Job Offers*
 Categories within this page include:
 - Base salary rate
 - Hours worked
@@ -26,7 +26,7 @@ Categories within this page include:
 - Other resources/stipends
 - Tuition Assistance?
 
-## *Quality of Life*
+### *Quality of Life*
 Categories within this page include:
 - Relationships (partner, friends, family)
 - Vitality
@@ -37,5 +37,5 @@ Categories within this page include:
 - Daily foundations and operations
 - Bucket List
 
-## *Cost of Living*
+### *Cost of Living*
 This page is planned to utilize https://www.numbeo.com/cost-of-living/ for information. 
